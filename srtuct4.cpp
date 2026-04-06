@@ -4,7 +4,7 @@ using namespace std;
 struct detailAlamat
 {
     string desa;
-    string kta;
+    string kota;
 };
 
 struct Orang
