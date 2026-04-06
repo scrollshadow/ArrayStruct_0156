@@ -11,7 +11,7 @@ struct Orang
 {
     string nama;
     detailAlamat alamat;
-    int umur
+    int umur;
 };
 
 int main(){
