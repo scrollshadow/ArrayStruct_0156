@@ -41,7 +41,7 @@ int main(){
  //menalpil dg for
     for (int i = 0; i <= 4; i++)
     {
-        cout << "Data ke-" << i+1 << " = " << kamu[i] << endl:
+        cout << "Data ke-" << i+1 << " = " << kamu[i] << endl;
     }   
 
 
