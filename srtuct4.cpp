@@ -7,7 +7,7 @@ struct detailAlamat
     string kota;
 };
 
-struct Orang
+struct Oran
 {
     string nama;
     detailAlamat alamat;
